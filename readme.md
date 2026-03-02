@@ -28,5 +28,3 @@ mu.Lock()
 count++;
 mu.Unlock()
 ```
-#### Reference:
-[Pessimitic Locking with Mutex](https://www.youtube.com/watch?v=4F-WiPFrPsA)
